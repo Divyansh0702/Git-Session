@@ -1,6 +1,6 @@
 ls
 pwd
-mkdir "directoryname"
+mkdir "directoryname"   
 cd "directoryname"
 touch "filename"
 git status
