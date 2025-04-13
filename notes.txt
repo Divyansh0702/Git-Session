@@ -1,0 +1,11 @@
+ls
+pwd
+mkdir "directoryname"
+cd "directoryname"
+touch "filename"
+git status
+git add . (git add "filename")
+git log
+git commit -m "message"
+git checkout "commit Id" / main 
+git restore --staged "filename"
