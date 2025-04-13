@@ -9,3 +9,7 @@ git log
 git commit -m "message"
 git checkout "commit Id" / main 
 git restore --staged "filename"
+
+git checkout -b "branchname"
+git branch "branchname"
+git branch -d "branchname"
