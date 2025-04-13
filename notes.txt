@@ -15,3 +15,6 @@ git branch "branchname"
 git branch -d "branchname"
 
 git merge "branchname"
+
+git remote add origin "https://github.com/Divyansh0702/Git-Session.git"
+git remote -v
