@@ -13,3 +13,5 @@ git restore --staged "filename"
 git checkout -b "branchname"
 git branch "branchname"
 git branch -d "branchname"
+
+git merge "branchname"
